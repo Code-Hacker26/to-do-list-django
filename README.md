@@ -37,15 +37,15 @@ then install django
 
 
 
-Run the following commands to create and apply migrations:
+### Run the following commands to create and apply migrations:
 
 ```bash
 python manage.py makemigrations
 python manage.py migrate
 
-### 4. . Run the Development Server
 
-Start the Django development server with:
+
+### Start the Django development server with:
 
 ```bash
 python manage.py runserver
