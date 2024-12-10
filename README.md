@@ -35,7 +35,7 @@ then install django
 ```bash
  pip install django
 
-### 4. Create and Apply Migrations
+
 
 Run the following commands to create and apply migrations:
 
